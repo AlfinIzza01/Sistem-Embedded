@@ -12,20 +12,15 @@ jika tiba-tiba salah satu ESP32 kehilangan daya atau diatur ulang, ketika restar
   
 ESP-NOW mempunyai fitur sebagai berikut.          
 a. Komunikasi unicast yang terenkripsi maupun tidak terenkripsi.         
-b. Perpaduan komunikasi data yang terenkripsi maupun yang tidak terenkripsi pada perangkat yang berada pada topologi peer-to-peer.             
+b. Perpaduan komunikasi data yang terenkripsi maupun yang tidak terenkripsi pada perangkat yang berada pada topologi peer-to-peer.        
 c. Payload (ukuran) data yang dapat dikirm mencapai 250 byte.              
 d. Terdapat fungsi callback yang dapat menginformasikan data berhasil terkirim maupun gagal dikirim.
 
 Selain itu, ESP-NOW mempunyai batasan sebagai berikut.            
-a. Jumlah maksimal perangkat yang dapat berkomunikasi dalam mode station dengan 
-data terenkripsi adalah 10 unit (6 dalam mode SoftAP atau SoftAP+Station).        
-b. Untuk komunikasi tidak terenkripsi, jumlah maksimal perangkat adalah 20 unit, 
-termasuk dengan yang terenkripsi. 
+a. Jumlah maksimal perangkat yang dapat berkomunikasi dalam mode station dengan data terenkripsi adalah 10 unit (6 dalam mode SoftAP atau SoftAP+Station).        
+b. Untuk komunikasi tidak terenkripsi, jumlah maksimal perangkat adalah 20 unit, termasuk dengan yang terenkripsi. 
 
-ESP-NOW mempunyai 2 tipe jaringan, yaitu One-Way Communication dan Two-Way 
-Communication. One-Way Communication terbagi menjadi Point-to-Point, One-to-Many 
-Communication dan Many-to-One Communication. Sementara Two-Way Communication 
-terbagi menjadi Point-to-Point dan Mesh Communication</p>
+ESP-NOW mempunyai 2 tipe jaringan, yaitu One-Way Communication dan Two-Way Communication. One-Way Communication terbagi menjadi Point-to-Point, One-to-Many Communication dan Many-to-One Communication. Sementara Two-Way Communication terbagi menjadi Point-to-Point dan Mesh Communication</p>
 
 
 **Sub-job** pada jobsheet ini, antara lain:
