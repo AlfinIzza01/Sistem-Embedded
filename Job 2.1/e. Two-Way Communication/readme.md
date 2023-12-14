@@ -1,5 +1,3 @@
-
-https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/7f876392-e9e7-4dc2-8685-fad7f17f0094
 # E. Two-Way Communication
 
 ## 1. Two-Way Communication 1
@@ -28,4 +26,4 @@ Kode program : <a href="e. Two-Way Communication/2/2_way_comm_2/2_way_comm_2.ino
 ### b. Hasil dan Pembahasan
 Two-way communication pada ESP32 dapat diimplementasikan dengan menggunakan protokol MQTT. Misalnya, ESP32 sebagai pengirim mengirimkan data sensor ke topik tertentu di broker MQTT, dan ESP32 sebagai penerima berlangganan topik yang sama untuk menerima dan merespons data. Dengan demikian, ESP32 dapat saling berkomunikasi, memungkinkan pertukaran informasi dan kontrol aktif antar perangkat dalam konteks Internet of Things (IoT).
 
-Uploading hasil-2.mp4…
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/7f876392-e9e7-4dc2-8685-fad7f17f0094
