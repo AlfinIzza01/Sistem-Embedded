@@ -4,17 +4,8 @@
 ### 1. Source Code
 Kode program : <a href="1. Memperoleh MAC Address ESP32 Receiver/cek_mac.ino">di sini</a>
 
-### c. Hasil dan Pembahasan
-Dalam percobaan ini program dibuat untuk dapat menghasilkan LED yang dapat melakukan blink dengan interval 100ms, 1 detik, 2 detik dan 3 detik sekali.
-
-##### LED Blink setiap 1 detik
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/e1504216-38c4-413e-8895-f4955d580d3d
-
-##### LED Blink setiap 2 detik
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/3740dfde-573a-4da9-be62-c5ed0762a3c1
-
-##### LED Blink setiap 3 detik
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/973fae63-ee32-4b4b-b5e0-c915944b9c01
+### 2. Hasil dan Pembahasan
+Dalam percobaan ini program dibuat untuk memperoleh MAC Address ESP32 Receiver.
 
 ##### LED Blink setiap 100ms
 https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/925ad849-8336-4624-af3b-f215ea402a28
