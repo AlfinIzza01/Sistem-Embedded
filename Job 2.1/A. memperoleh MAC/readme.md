@@ -1,16 +1,8 @@
 # A. Memperoleh MAC Address ESP32 Receiver
 
-## 1. GPIO | LED Blink
 
-### a. Rangkaian dan Flowchart
-Rangkaian pada percobaan ini adalah sebagai berikut
-
-![image](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/65dbb26b-6521-4052-b273-9f35197104a2)
-
-![1](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/cb71d022-a172-451e-8a3c-9e0e56b9522d)
-
-### b. Source Code
-Kode program : <a href="GPIO_1.2/GPIO_1.ino">di sini</a>
+### 1. Source Code
+Kode program : <a href="1. Memperoleh MAC Address ESP32 Receiver/cek_mac.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
 Dalam percobaan ini program dibuat untuk dapat menghasilkan LED yang dapat melakukan blink dengan interval 100ms, 1 detik, 2 detik dan 3 detik sekali.
