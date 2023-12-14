@@ -3,7 +3,7 @@
 ## 1. Mengirim Pesan yang Sama Ke Beberapa Board ESP32
 
 ### a. Source Code
-Kode program : <a href="4_ESP_collab/4_ESP_collab.ino">di sini</a>
+Kode program : <a href="1. Mengirim Pesan yang Sama Ke Beberapa Board ESP32/4_ESP_collab/4_ESP_collab.ino">di sini</a>
 
 ### b. Hasil dan Pembahasan
 Dalam percobaan ini program dibuat untuk mengirim pesan yang sama pada beberapa board
@@ -20,7 +20,7 @@ https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/cb26cb28-2c3f-40d
 ## 2. Mengirim Pesan yang Berbeda Ke Beberapa Board ESP32
 
 ### a. Source Code
-Kode program : <a href="4_ESP_collab_beda_pesan/4_ESP_collab_beda_pesan.ino">klik di sini</a>
+Kode program : <a href="2. Mengirim Pesan yang Berbeda Ke Beberapa Board ESP32/4_ESP_collab_beda_pesan/4_ESP_collab_beda_pesan.ino">klik di sini</a>
 
 ### b. Hasil dan Pembahasan
 Dalam percobaan ini program dibuat untuk untuk mengirim pesan yang berbeda pada beberapa board. 
