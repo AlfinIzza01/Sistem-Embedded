@@ -1,12 +1,12 @@
 # B. ESP-NOW One-Way Point-to-Point Communication
 
 ### 1. Source Code
-Kode program : <a href="GPIO_1.2/GPIO_1.ino">di sini</a>
+Kode program : <a href="ESP-NOW_One-Way_Point-to-Point_Communication/ESP-NOW_One-Way_Point-to-Point_Communication.ino">di sini</a>
 
 ### 2. Hasil dan Pembahasan
-Dalam percobaan ini program dibuat untuk dapat menghasilkan LED yang dapat melakukan blink dengan interval 100ms, 1 detik, 2 detik dan 3 detik sekali.
+Dalam percobaan ini program dibuat untuk dapat mengirimkan atau menerima pesan dengan kondisi kombinasi dari tinggi antena ground, 0.3, dan 1 dengan jarak transmisi 1m, 2m, 3m.
 
-##### LED Blink setiap 1 detik
+##### Tinggi Antena 1m dengan Jarak Transmisi 1m
 https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/e1504216-38c4-413e-8895-f4955d580d3d
 
 ##### LED Blink setiap 2 detik
