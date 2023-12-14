@@ -5,23 +5,19 @@
 ### a. Source Code
 Kode program : <a href="4_ESP_collab/4_ESP_collab.ino">di sini</a>
 
-### c. Hasil dan Pembahasan
-Dalam percobaan ini program dibuat untuk dapat menghasilkan LED yang dapat melakukan blink dengan interval 100ms, 1 detik, 2 detik dan 3 detik sekali.
+### b. Hasil dan Pembahasan
+Dalam percobaan ini program dibuat untuk mengirim pesan yang sama pada beberapa board
 
-##### LED Blink setiap 1 detik
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/e1504216-38c4-413e-8895-f4955d580d3d
+##### Hasil Receiver
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/a4852418-d7b9-46d5-9fa0-6df5678a5266
 
-##### LED Blink setiap 2 detik
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/3740dfde-573a-4da9-be62-c5ed0762a3c1
+##### Hasil Sender Fail
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/8ff971f2-046b-4b32-b670-79127b9f748d
 
-##### LED Blink setiap 3 detik
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/973fae63-ee32-4b4b-b5e0-c915944b9c01
+##### Hasil Sender Success
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/cb26cb28-2c3f-40d1-a970-82885dc443ac
 
-##### LED Blink setiap 100ms
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/925ad849-8336-4624-af3b-f215ea402a28
-
-
-## 2. GPIO | pushbutton1 - LED menyala saat push button ditekan
+## 2. Mengirim Pesan yang Berbeda Ke Beberapa Board ESP32
 
 ### a. Rangkaian dan Flowchart
 Rangkaian pada percobaan ini adalah sebagai berikut
