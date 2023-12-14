@@ -7,7 +7,9 @@ Kode program : <a href="ESP-NOW_One-Way_Point-to-Point_Communication/ESP-NOW_One
 Dalam percobaan ini program dibuat untuk dapat mengirimkan atau menerima pesan dengan kondisi kombinasi dari tinggi antena ground, 0.3, dan 1 dengan jarak transmisi 1m, 2m, 3m.
 
 ##### Tinggi Antena 1m dengan Jarak Transmisi 1m
-https://github.com/AlfinIzza01/Sistem-Embedded/blob/master/Job%202.1/b.%20ESP-NOW%20One-Way%20Point-to-Point%20Communication/dokumentasi/1-1m.mp4
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/66aa2b6b-9a07-4af7-a078-4bc3e76c4ef2
+
+
 
 ##### LED Blink setiap 2 detik
 https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/3740dfde-573a-4da9-be62-c5ed0762a3c1
