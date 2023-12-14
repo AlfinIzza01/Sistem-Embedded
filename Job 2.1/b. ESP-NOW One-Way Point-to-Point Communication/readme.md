@@ -9,68 +9,32 @@ Dalam percobaan ini program dibuat untuk dapat mengirimkan atau menerima pesan d
 ##### Tinggi Antena 1m dengan Jarak Transmisi 1m
 https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/66aa2b6b-9a07-4af7-a078-4bc3e76c4ef2
 
+##### Tinggi Antena 30cm dengan Jarak Transmisi 1m
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/be6d171d-1982-44a2-bfdd-8204f34da521
 
+##### Tinggi Antena ground dengan Jarak Transmisi 1m
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/5a9af4a4-fa49-4926-b4fa-f3299001b819
 
-##### LED Blink setiap 2 detik
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/3740dfde-573a-4da9-be62-c5ed0762a3c1
+##### Tinggi Antena 1m dengan Jarak Transmisi 2m
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/b86dbffb-a067-40c6-8fc0-4a1a8d15b024
 
-##### LED Blink setiap 3 detik
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/973fae63-ee32-4b4b-b5e0-c915944b9c01
+##### Tinggi Antena 30cm dengan Jarak Transmisi 2m
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/3c2a75b8-1e1d-4a82-a7ae-58499c52fd1e
 
-##### LED Blink setiap 100ms
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/925ad849-8336-4624-af3b-f215ea402a28
+##### Tinggi Antena ground dengan Jarak Transmisi 2m
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/cf906691-eed4-4aa0-bc8d-67c92415aaf0
 
+##### Tinggi Antena 1m dengan Jarak Transmisi 3m
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/9a6ae658-416c-45ae-9658-4e571af81dc8
 
-## 2. GPIO | pushbutton1 - LED menyala saat push button ditekan
+##### Tinggi Antena 30cm dengan Jarak Transmisi 3m
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/a103c9aa-f7c7-4107-b314-4a057bfb154b
 
-### a. Rangkaian dan Flowchart
-Rangkaian pada percobaan ini adalah sebagai berikut
+##### Tinggi Antena ground dengan Jarak Transmisi 3m
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/5bd81689-56a2-452c-a1a7-8b13c408fbc1
 
-![image](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/65dbb26b-6521-4052-b273-9f35197104a2)
-![2](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/187cfb03-9d90-46da-baf1-aec70dffe744)
+##### Hasil kirim
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/c95ee7e2-b773-4acf-97ab-1006d451e0f4
 
-
-### b. Source Code
-Kode program : <a href="GPIO_1.3%20Tambahkan%201%20LED%20dan%201%20push%20button%20pada%rangkaian/GPIO_1.2.ino">klik di sini</a>
-
-### c. Hasil dan Pembahasan
-Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan push button, dimana saat push button ditekan maka LED akan menyala.
-
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/d44359e2-6291-465f-9ad6-0f40d3d46d68
-
-
-## 3. GPIO | pushbutton2 - LED blink saat push button ditekan
-
-### a. Rangkaian dan Flowchart
-Rangkaian pada percobaan ini adalah sebagai berikut
-
-![2](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/2554792d-22ef-40e7-85aa-cfee5868b7e8)
-
-![3](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/a272d524-1628-44df-ab67-8df81858010c)
-
-
-### b. Source Code
-Kode program :<a href="GPIO_1.3%20menyala%20kiri%kanan/GPIO_1.3.ino">klik di sini</a>
-
-### c. Hasil dan Pembahasan
-Dalam Percobaan ini, sebuah program dirancang untuk mengontrol LED dengan menggunakan push button, di mana LED akan mengalami siklus berkedip setiap 500 ms saat push button kedua ditekan.
-
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/7afb4696-8ed7-48c6-bd59-5239b1c74fe0
-
-
-## 4. GPIO | pushbutton3 - LED menyala dari kiri ke kanan berurutan saat pushbutton ditekan
-
-### a. Rangkaian dan Flowchart
-Rangkaian pada percobaan ini adalah sebagai berikut
-
-![3](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/82cf5654-c32a-495c-9f1e-cf05f9523a3b)
-![4](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/e578ae80-43bc-4240-8e65-cbe8a204c1de)
-
-
-### b. Source Code
-Kode program :<a href="GPIO_1.3.2Menyala%20kiri%20kanan/Tambahkan_3_LED_dan_1_push_button_pada_rangkaian__kemudian_kemb.ino">klik di sini</a>
-
-### c. Hasil dan Pembahasan
-Percobaan ini merupakan sebuah program dirancang untuk mengontrol pencahayaan LED dengan menggunakan tombol tekan. Ketika tombol tekan ketiga ditekan, LED akan menyala secara berurutan dari kiri ke kanan, menciptakan efek running LED.
-
-https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/6b138bf8-ff4a-4944-9445-30061b339b36
+##### Hasil Terima
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/3b88efa1-1574-444a-8cee-cce778637d2a
