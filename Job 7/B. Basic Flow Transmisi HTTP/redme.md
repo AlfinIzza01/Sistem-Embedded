@@ -1,4 +1,4 @@
-![1](https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/313f3551-34b4-4557-9713-d5eca1a5e65b)# B. Basic Flow Transmisi HTTP
+# B. Basic Flow Transmisi HTTP
 
 ### 1. Rangkaian dan Flowchart
 Rangkaian pada percobaan ini adalah sebagai berikut
