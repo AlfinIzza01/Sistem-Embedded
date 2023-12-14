@@ -1,4 +1,4 @@
-# A. GPIO (General Purpose Input-Output)
+# B. ESP-NOW One-Way Point-to-Point Communication
 
 ## 1. GPIO | LED Blink
 
