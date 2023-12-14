@@ -1,6 +1,6 @@
 # B. Basic Flow Transmisi HTTP
 
-### 1. Rangkaian dan Flowchart
+### 1. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 ![1](https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/1e5e105d-eaed-4ebe-b49b-e47330308c32)
 
