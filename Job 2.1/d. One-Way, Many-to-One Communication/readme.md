@@ -1,5 +1,3 @@
-
-https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/34af09a9-fafc-4e10-a83f-b5a122daff6d
 # A. One-Way, Many-to-One Communication
 
 ## 1. One Way Many To One
@@ -14,4 +12,4 @@ Dalam percobaan ini program dibuat untuk dapat mengirimkan pesan dari beberapa E
 https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/f3f6511b-7b9e-4cb6-88f1-ddd8416dea6f
 
 ##### Hasil Sender
-Uploading hasil-4-sender.mp4…
+https://github.com/AlfinIzza01/Sistem-Embedded/assets/94149476/34af09a9-fafc-4e10-a83f-b5a122daff6d
