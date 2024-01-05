@@ -52,3 +52,7 @@ Sensor menuju Server</p>
 
  
 > *Buka folder untuk melihat laporan*
+<<<<<<< HEAD
+=======
+
+>>>>>>> a463c4d22cba975b3a4190d5a540e7c0c8835009

@@ -20,3 +20,7 @@ Pada percobaan A, melakukan pengaturan SSID dan password Wi-Fi pada ESP32 melalu
 ![2](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/7726b4f4-7469-4534-8956-c934cbda5835)
 
 ![3](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/23f7e16a-b775-42fa-9f20-e68a666146a6)
+<<<<<<< HEAD
+=======
+
+>>>>>>> a463c4d22cba975b3a4190d5a540e7c0c8835009
