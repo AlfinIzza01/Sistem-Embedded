@@ -2,9 +2,11 @@
 
 
 ### a. Rangkaian dan flowchart
-Rangkaian pada percobaan ini adalah sebagai berikut
+Rangkaian pada percobaan ini adalah sebagai berikut :
 
-![1](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/05287890-4b87-4390-9368-c54fc4187734)
+![1](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/b0c68dac-6833-4e1e-b1e8-c61813f07cb2)
+
+
 
 </br>
 
@@ -20,7 +22,3 @@ Pada percobaan A, melakukan pengaturan SSID dan password Wi-Fi pada ESP32 melalu
 ![2](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/7726b4f4-7469-4534-8956-c934cbda5835)
 
 ![3](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/23f7e16a-b775-42fa-9f20-e68a666146a6)
-<<<<<<< HEAD
-=======
-
->>>>>>> a463c4d22cba975b3a4190d5a540e7c0c8835009
